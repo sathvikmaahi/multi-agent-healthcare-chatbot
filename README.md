@@ -113,30 +113,6 @@ python test_healthcare_chatbot.py
 - `demo_app.py`: Streamlit web interface
 - `requirements.txt`: All required dependencies
 
-## ⚠️ Important Disclaimers
-
-### Medical Disclaimer
-> **This is an educational demonstration project for learning purposes only.**
-> 
-> - Not a substitute for professional medical consultation
-> - Always seek guidance from qualified healthcare professionals
-> - Do not use for actual medical diagnosis or treatment
-
-### Technical Limitations
-- Requires OpenAI API key for full functionality
-- Internet connection needed for API calls
-- Rate limits may apply with heavy usage
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -144,14 +120,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenAI**: GPT-4o language model
 - **Streamlit**: Web interface framework
 
-## 📞 Contact
 
-- **Repository**: [GitHub](https://github.com/sathvikmaahi/multi-agent-healthcare-chatbot)
-- **Issues**: [GitHub Issues](https://github.com/sathvikmaahi/multi-agent-healthcare-chatbot/issues)
-
----
-
-**⭐ Star this repository if you find it useful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/sathvikmaahi/multi-agent-healthcare-chatbot.svg?style=social&label=Star)](https://github.com/sathvikmaahi/multi-agent-healthcare-chatbot)
-[![GitHub forks](https://img.shields.io/github/forks/sathvikmaahi/multi-agent-healthcare-chatbot.svg?style=social&label=Fork)](https://github.com/sathvikmaahi/multi-agent-healthcare-chatbot/fork)
