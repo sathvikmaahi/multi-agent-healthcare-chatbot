@@ -1,7 +1,5 @@
 # 🤖 Multi-Agent Healthcare Chatbot
 
-> **⚠️ Medical Disclaimer**: This is an educational demonstration project. It is NOT a medical device and should NOT be used for actual medical diagnosis or treatment. Always consult qualified healthcare professionals.
-
 ## 🎯 Overview
 
 This project demonstrates a **Multi-Agent AI Healthcare Consultation System** built using Microsoft's AutoGen framework. Instead of a single AI chatbot, this system uses multiple specialized AI agents that collaborate to provide comprehensive medical guidance, similar to a medical team consultation.
